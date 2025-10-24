@@ -4,7 +4,7 @@
   "build_date": "2025-10-20 18:00:00",
   "files": [
     {
-      "name": "bootloader.bon",
+      "name": "bootloader.bin",
       "path": "/boot.bin",
       "size": 17536,
       "sha256": "3D234A7471F67B013686DABD4DEE7C1FA915C9928463616A94BC9297ACF1ABF8"
