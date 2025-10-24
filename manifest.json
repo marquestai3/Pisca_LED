@@ -5,19 +5,21 @@
   "files": [
     {
       "name": "bootloader.bin",
-      "url": "https://raw.githack.com/marquestai3/Pisca_LED/main/bootloader.bin"
+      "url": "https://raw.githack.com/marquestai3/Pisca_LED/main/bootloader.bin",
       "path": "/boot.bin",
       "size": 17536,
       "sha256": "3D234A7471F67B013686DABD4DEE7C1FA915C9928463616A94BC9297ACF1ABF8"
     },
     {
       "name": "partitions.bin",
+      "url": "https://raw.githack.com/marquestai3/Pisca_LED/main/partitions.bin",
       "path": "/part.bin",
       "size": 3072,
       "sha256": "148B959CBFF1C38AA8E1D5C0BA9D612C54997B945E56A63F41223EEF650653A1"
     },
     {
       "name": "firmware.bin",
+      "url": "https://raw.githack.com/marquestai3/Pisca_LED/main/firmware.bin",
       "path": "/fw.bin",
       "size": 240256,
       "sha256": "C84F79892B7840322D0C6FB883DCDA3A3D00B0DDD1D151E017836308CB4D7A84"
