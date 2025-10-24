@@ -5,6 +5,7 @@
   "files": [
     {
       "name": "bootloader.bin",
+      "url": "https://raw.githack.com/marquestai3/Pisca_LED/main/bootloader.bin"
       "path": "/boot.bin",
       "size": 17536,
       "sha256": "3D234A7471F67B013686DABD4DEE7C1FA915C9928463616A94BC9297ACF1ABF8"
